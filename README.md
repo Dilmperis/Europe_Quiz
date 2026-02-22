@@ -5,6 +5,9 @@ A small project I come back to whenever I have time to train my HTML/CSS/JavaScr
 Instead of building random demos, I like making the learning process useful too, so while I practice frontend basics, I also train real-world knowledge (in this case: **European countries and capitals**).  
 Code + geography = good combo for a Sunday evening...
 
+<p align="center"><img width="1000" height="730" alt="image" src="https://github.com/user-attachments/assets/28e84d73-05fd-498c-8307-0daecb92c27f" /></p>
+
+
 ## What this repo do:
 
 - Shows a map of Europe
