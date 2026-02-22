@@ -20,4 +20,6 @@ Code + geography = good combo for a Sunday evening...
 
 ```bash
 git clone https://github.com/Dilmperis/Europe_Quiz.git
+```
 
+Open the .html file in a Browser and enjoy! It's a project in process... We learn from our mistakes! Happy to hear your opinion.
