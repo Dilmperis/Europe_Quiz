@@ -8,7 +8,7 @@ Code + geography = good combo for a Sunday evening...
 <p align="center"><img width="1000" height="730" alt="image" src="https://github.com/user-attachments/assets/28e84d73-05fd-498c-8307-0daecb92c27f" /></p>
 
 
-## What this repo do:
+## What this repo does:
 
 - Shows a map of Europe
 - Dynamic Quiz mode for **countries** or for **capitals**
