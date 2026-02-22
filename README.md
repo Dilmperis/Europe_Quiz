@@ -16,5 +16,5 @@ Code + geography = good combo for a Sunday evening...
 ## Clone the repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Dilmperis/Europe_Quiz.git
+
